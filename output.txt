@@ -1,0 +1,54 @@
+Anagram Crossword Puzzle Generator
+----------------------------------
+
+SOLUTION:
+ ---------------
+|...............|
+|...............|
+|..F.....C......|
+|..UND..COMPUTER|
+|..N.....D.R....|
+|..C..N..E.O....|
+|..T..O....G.C..|
+|.FIGHTINGIRISH.|
+|..O..R.O..A.E..|
+|..N..E.T..M....|
+|.....D....M....|
+|KEYBOARD..IF...|
+|.....M....N....|
+|.....E....G....|
+|...............|
+ ---------------
+
+PUZZLE:
+ ---------------
+|###############|
+|###############|
+|## ##### ######|
+|##   ##        |
+|## ##### # ####|
+|## ## ## # ####|
+|## ## #### # ##|
+|#             #|
+|## ## # ## # ##|
+|## ## # ## ####|
+|##### #### ####|
+|        ##  ###|
+|##### #### ####|
+|##### #### ####|
+|###############|
+ ---------------
+
+CLUES:
+ Location | Direction | Anagram
+  8,2       ACROSS      HIFTNGISGIHRI  
+  4,11      DOWN        RRGMMONPAGI    
+  6,6       DOWN        RENEMTDAO      
+  4,8       ACROSS      OCTUMPER       
+ 12,1       ACROSS      EKDOARBY       
+  3,3       DOWN        TFNUCION       
+  3,9       DOWN        ODCE           
+  4,3       ACROSS      DNU            
+  7,13      DOWN        ECS            
+  8,8       DOWN        NOT            
+ 12,11      ACROSS      FI             
